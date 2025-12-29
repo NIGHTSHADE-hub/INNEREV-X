@@ -1,0 +1,7 @@
+{
+  "name": "KhataLens",
+  "description": "AI-powered handwritten Khata (ledger) digitizer. Automates the flow from receipt photo to structured database entry using simulated YOLO/OCR pipelines and Gemini LLM.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
